@@ -1,0 +1,5 @@
+pycryptodomex
+requests
+tensorflow
+matplotlib
+psutil
