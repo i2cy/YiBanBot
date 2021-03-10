@@ -17,8 +17,8 @@ from matplotlib.patches import Rectangle
 import matplotlib.pyplot as plt
 
 
-FONT_DIR = "../fonts/"
-WORDS_DIR = "../words/"
+FONT_DIR = "fonts/"
+WORDS_DIR = "words/"
 OUTPUT_DIR = "../../DeepLearning/Datasets/captcha_CN/"  # 在此处修改样本生成文件夹
 #OUTPUT_DIR = "validations/"
 
