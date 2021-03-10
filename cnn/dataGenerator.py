@@ -14,8 +14,6 @@ from PIL import Image, ImageFont, ImageDraw, ImageOps
 import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
 
-import matplotlib.pyplot as plt
-
 
 FONT_DIR = "fonts/"
 WORDS_DIR = "words/"
