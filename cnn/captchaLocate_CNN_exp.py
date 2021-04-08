@@ -31,7 +31,7 @@ BATCH_SIZE = 6
 EPOCHES = 50
 BUFF_RATE = 0.1
 LEARNING_RATE = 0.0001
-MODEL_FILE = "Models/captchaLocate_model.h5"
+MODEL_FILE = "../Models/captchaLocate_model.h5"
 NAME = "CaptchaLocate"
 
 

@@ -28,9 +28,9 @@ BATCH_SIZE = 10                                             # 批处理大小
 EPOCHES = 10                                                # 训练代数
 BUFF_RATE = 0.1                                             # 缓冲区大小指数
 LEARNING_RATE = 0.0001                                      # 学习率
-MODEL_FILE = "Models/captchaRecongnise_model.h5"            # 在此处修改神经网络模型文件
+MODEL_FILE = "Models/captchaRecongnise_model.h5"  # 在此处修改神经网络模型文件
 NAME = "CaptchaRecongnise"
-DICT_FILE = "words/dict/dict.json"                          # 字符集与标签的转换集文件（由神经网络接口部分自动生成）
+DICT_FILE = "words/dict/dict.json"  # 字符集与标签的转换集文件（由神经网络接口部分自动生成）
 
 CAPTCHA_CNN = None
 
